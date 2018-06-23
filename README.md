@@ -2,6 +2,16 @@
 
 ### About
   This Project is about configuring the Linux-Server.
+  
+  The list of software installed are:
+
+1.Python
+
+2.Postgresql
+
+3.Flask environment
+
+4.Apache2
 
 ### Server Details
 
@@ -288,6 +298,8 @@ sudo apt-get upgrade
    `http://ip.xip.io/callback`
    
    [xip.io](xip.io) is a free DNS which will be the same as using IP address
+   
+   
    
    #### Final Step
    Restart your apache2 server
