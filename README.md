@@ -299,7 +299,10 @@ sudo apt-get upgrade
    
    [xip.io](xip.io) is a free DNS which will be the same as using IP address
    
-   
+### Install Apache 2
+    https://httpd.apache.org/download.cgi
+
+    https://apache-http-server.en.softonic.com
    
    #### Final Step
    Restart your apache2 server
